@@ -4,7 +4,7 @@ Projeto realizado a partir do acompanhamento do curso de Padrões de Projeto do 
 
 Conhecimento baseado no catalogo de padrões utilizado na comunidade de software, que são os padrões de projeto do GoF ou "Gang of Four", que se refere à um grupo de quatro grandes nomes no desenvolvimento (Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides) que catalogaram 23 padrões de projeto no seu livro Design Patterns: Elements of Reusable Object-Oriented Software, em 1995.
 
-![design pattern](https://user-images.githubusercontent.com/70417952/220382197-f23c8f37-d015-47dd-b533-e955b0c72420.jpg)
+![Design Patterns.jpg](images%2FDesign%20Patterns.jpg)
 
 A organização do curso, assim como no livro, são divididos em três grandes categorias, que são elas;
 
