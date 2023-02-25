@@ -1,4 +1,4 @@
-package br.com.cod3r.factory.apple.before;
+package br.com.cod3r.factory.apple.before.model;
 
 public class IphoneX extends Iphone{
     @Override
