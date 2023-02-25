@@ -1,6 +1,6 @@
 package br.com.cod3r.factory.apple;
 
-import br.com.cod3r.factory.apple.before.*;
+import br.com.cod3r.factory.apple.before.model.*;
 
 public class Client {
 
